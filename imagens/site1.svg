@@ -1,12 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
-  <defs>
-    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ff0033"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
-  <rect width="640" height="360" rx="28" fill="url(#fundo)"/>
-  <circle cx="320" cy="145" r="86" fill="#ffffff" fill-opacity=".14"/>
-  <text x="320" y="180" text-anchor="middle" font-family="Arial,sans-serif" font-size="88" font-weight="bold" fill="#fff">▶</text>
-  <text x="320" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="bold" fill="#fff">YouTube</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#28151c"/><stop offset="1" stop-color="#090b10"/></linearGradient><radialGradient id="glow"><stop stop-color="#ff3154" stop-opacity=".7"/><stop offset="1" stop-color="#ff3154" stop-opacity="0"/></radialGradient><linearGradient id="glass" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity=".02"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#bg)"/><circle cx="820" cy="260" r="430" fill="url(#glow)"/><path d="M0 560 350 330l230 150 260-250 360 300v190H0Z" fill="#fff" opacity=".035"/><rect x="385" y="145" width="430" height="300" rx="42" fill="url(#glass)" stroke="#fff" stroke-opacity=".2"/><path d="M555 222q0-19 17-9l126 76q17 10 0 20l-126 76q-17 10-17-9Z" fill="#fff"/><text x="600" y="565" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="12">YOUTUBE</text><text x="600" y="615" fill="#fff" opacity=".48" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="7">WATCH · DISCOVER · CREATE</text></svg>
