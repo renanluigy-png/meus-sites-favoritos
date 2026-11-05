@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
-  <defs>
-    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#3c8527"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
-  <rect width="640" height="360" rx="28" fill="url(#fundo)"/>
-  <circle cx="320" cy="145" r="86" fill="#ffffff" fill-opacity=".14"/>
-  <text x="320" y="180" text-anchor="middle" font-family="Arial,sans-serif" font-size="88" font-weight="bold" fill="#fff">M</text>
-  <text x="320" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="bold" fill="#fff">Minecraft</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#233c2b"/><stop offset="1" stop-color="#0a100c"/></linearGradient><radialGradient id="glow"><stop stop-color="#8bd66d" stop-opacity=".48"/><stop offset="1" stop-color="#8bd66d" stop-opacity="0"/></radialGradient></defs><rect width="1200" height="720" fill="url(#bg)"/><circle cx="830" cy="250" r="440" fill="url(#glow)"/><g transform="translate(600 280)" stroke="#d8f3c8" stroke-opacity=".7" stroke-width="3"><path d="M-150 20-75-90 0 20Z" fill="#739e69"/><path d="M-45 20 55-125 155 20Z" fill="#9bc88a"/><path d="M-150 20H155V125H-150Z" fill="#34583c"/><path d="M-90 20V125M-15 20V125M60 20V125M-150 72H155" fill="none" opacity=".55"/></g><text x="600" y="565" fill="#fff" text-anchor="middle" font-family="Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="12">MINECRAFT</text><text x="600" y="615" fill="#fff" opacity=".48" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="7">EXPLORE · CREATE · SURVIVE</text></svg>
